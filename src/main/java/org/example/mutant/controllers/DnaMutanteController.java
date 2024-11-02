@@ -30,5 +30,9 @@ public class DnaMutanteController {
             return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("{\"error\":\"" + e.getMessage() + "\"}");
         }
     }
+    @GetMapping
+    public ResponseEntity<String> getMutantInfo() {
+        return ResponseEntity.ok("El endpoint /mutant está funcionando");
+    }
 }
 
