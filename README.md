@@ -42,7 +42,7 @@ Un humano es considerado mutante si se encuentran **más de una secuencia de cua
 #### Nivel 1:  Desarrollar un algoritmo para detectar mutante
 Se programó un algoritmo que detecte si una secuencia de ADN corresponde a un mutante, en caso de que sí, devuelve true mostrando un mensaje de "Mutante detectado" y en caso de que no retorna false mostrando un mensaje de "No es mutante".
 
-[Aca se adjunta imagenes con algunas peticiones que se hizo con el proyecto ejecutando](https://github.com/hsinyulin03/ParcialBackend-DeteccionMutantes-LIN-50069/blob/master/DocumentacionNivel2y3/Test%20Coverage%20-%20Pruebas%20Unitarias.pdf)
+[Acá se adjunta imagenes con algunas peticiones que se hizo con el proyecto ejecutando](https://github.com/hsinyulin03/ParcialBackend-DeteccionMutantes-LIN-50069/blob/master/DocumentacionNivel2y3/Test%20Coverage%20-%20Pruebas%20Unitarias.pdf)
 
 #### Nivel 2: Creación de la API Rest y hostearlo
 En esta ocasión se hosteó el proyecto a Render.
