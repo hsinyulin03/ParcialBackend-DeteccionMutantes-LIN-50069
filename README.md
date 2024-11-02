@@ -34,7 +34,7 @@ Un humano es considerado mutante si se encuentran **más de una secuencia de cua
 
 - Haz clic en el botón de Run (verde) en IntelliJ para iniciar la aplicación.
 
-5- Abrir postmant y encviar peticiones con sus correspondientes endpoint que se detalla a continuación. 
+5- Abrir postmant y enviar peticiones con sus correspondientes endpoint que se detalla a continuación. 
 
 ```https://parcialbackend-deteccionmutantes-lin.onrender.com```
 
